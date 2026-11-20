@@ -1,0 +1,18 @@
+{
+  "width": 5000,
+  "height": 4000,
+  "mpp": 0.25,
+  "blocks": 6,
+  "blocks_skipped": 0,
+  "tissue_mm2": 0.6658,
+  "seconds": 11.9,
+  "megapixels_per_s": 1.68,
+  "nuclei": 6888,
+  "area_um2_mean": 26.91,
+  "area_um2_median": 24.06,
+  "area_cv": 0.618,
+  "diam_um_mean": 5.6,
+  "circularity_mean": 0.842,
+  "h_stain_mean": 1.575,
+  "nuclei_per_mm2": 10346.0
+}
